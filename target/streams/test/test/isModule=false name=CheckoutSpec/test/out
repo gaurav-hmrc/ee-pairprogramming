@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mCheckoutSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling the checkout cart[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the product details[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the 2 same product details[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the price of 2 when you buy 3 (buy 2 get 1 offer)[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the 2 different product details[0m[0m

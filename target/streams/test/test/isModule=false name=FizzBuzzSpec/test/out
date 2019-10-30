@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mFizzBuzzSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mcalling fizzBuzz[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the number string[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Fizz if number is divisible by 3[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Fizz if number is divisible by 3 - test[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Buzz if number is divisible by 5[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return FizzBuzz if number is divisible by 3 and 5[0m[0m
